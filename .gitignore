@@ -1,0 +1,7 @@
+# Compiled executables
+chapter03/linked_list/linked_list
+chapter03/stack/stack_array
+chapter03/stack/stack_linked_list
+
+# macOS
+.DS_Store
