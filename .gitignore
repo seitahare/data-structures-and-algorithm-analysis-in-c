@@ -8,3 +8,4 @@ chapter03/stack/stack_linked_list
 chapter03/stack/balanced_symbols
 chapter03/stack/infix_to_postfix
 chapter03/stack/postfix_evaluator
+chapter03/queue/queue_array
