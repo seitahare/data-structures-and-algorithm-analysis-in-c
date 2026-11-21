@@ -9,3 +9,25 @@ chapter03/stack/balanced_symbols
 chapter03/stack/infix_to_postfix
 chapter03/stack/postfix_evaluator
 chapter03/queue/queue_array
+
+# Compiled chapter exercises and examples
+chapter03/exercises/exercise_3_2
+chapter03/exercises/exercise_3_3a
+chapter03/exercises/exercise_3_3b
+chapter03/exercises/exercise_3_4
+chapter04/avl_tree/avl_tree
+chapter04/b_tree/b_tree
+chapter04/binary_search_tree/binary_search_tree
+chapter04/binary_tree/binary_tree
+chapter04/binary_tree/expression_tree
+chapter04/splay_tree/splay_tree
+chapter04/tree/tree_traversal
+chapter04/tree_traversals/tree_traversals
+chapter05/hash_table/hash_function
+chapter05/hash_table/separate_chaining
+chapter05/quadratic_probing/quadratic_probing
+chapter05/hash_function
+chapter05/separate_chaining
+*.o
+*.dSYM/
+a.out
